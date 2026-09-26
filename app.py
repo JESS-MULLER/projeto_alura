@@ -116,7 +116,7 @@ def escolher_opcao():
             listar_restaurantes()
         elif opcao_escolhida == 3:
             alternar_estado_restaurante()
-        elif opcao_escolhida == 5:
+        elif opcao_escolhida == 4:
             finalizar_app()
         else:
             opcao_invalida()
